@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "rentAVehicle",
+    "packageName": "com.rentavehicle.app",
+    "packageFolder": "com/rentavehicle/app",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useCompass": false,
+    "buildTool": "gradle",
+    "frontendBuilder": "gulp",
+    "javaVersion": "8",
+    "enableTranslation": false,
+    "rememberMeKey": "01a1011a2082773f0f8f7b5bcf60d3253f117c41"
+  }
+}
