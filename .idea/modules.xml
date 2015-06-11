@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mySQLRentAVehicle.iml" filepath="$PROJECT_DIR$/mySQLRentAVehicle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rentavehicle.iml" filepath="$PROJECT_DIR$/rentavehicle.iml" />
     </modules>
   </component>
 </project>
